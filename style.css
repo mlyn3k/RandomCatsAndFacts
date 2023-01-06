@@ -17,6 +17,8 @@ body {
     text-align: center;
     border: 2px solid green; border-radius: 5px 10px 5px 10px;
     box-shadow: 15, 15, 15 ;
+    width: 100vw;
+    height: 100vh;
 }
 
 #content-img {
